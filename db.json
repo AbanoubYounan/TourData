@@ -1,37 +1,3 @@
 {
-   "test":"Hello world",
-   "EGYPT":[
-      {
-         "name":"Cairo Tower",
-         "imageURL":"shorturl.at/enpGU"
-      },
-      {
-         "name":"Al Azhr"
-      },
-      {
-         "name":"Alexandria"
-      }
-   ],
-   "Turkey":[
-      {
-         "name":"Turkey1"
-      },
-      {
-         "name":"Al Azhr"
-      },
-      {
-         "name":"Alexandria"
-      }
-   ],
-   "ITALY":[
-      {
-         "name":"Italy1"
-      },
-      {
-         "name":"Al Azhr"
-      },
-      {
-         "name":"Alexandria"
-      }
-   ]
+   "test":"yarb"
 }
